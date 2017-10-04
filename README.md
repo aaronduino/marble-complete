@@ -14,6 +14,8 @@ The Turing Tumble kickstarter has a [gif of the real life equivalent](https://ks
 
 ## Running the Interpreter
 
+[![Join the chat at https://gitter.im/marble-complete/Lobby](https://badges.gitter.im/marble-complete/Lobby.svg)](https://gitter.im/marble-complete/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Run `python3 interpret.py --help` to read about available flags.
 
 For the demo gif, I ran the interpreter in auto-stepped debug mode with a delay of 0.25 seconds. The code was prettified, too.
